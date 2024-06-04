@@ -16,7 +16,8 @@ Nous avons extrait dans la base de données générale d'autres tables:
 - produits
 - forunisseurs
 - ventes
-À cela, s'ajoute la table temps (calendar) pour aboutir à un model en étoile, qui est plus optimale afin d'élaborer une meilleure analyse.
+  
+À cela, s'ajoute la table temps (Table_Calendrier) pour aboutir à un model en étoile, qui est plus optimale afin d'élaborer une meilleure analyse.
  
 ## Outils utilisés ⚡
 
